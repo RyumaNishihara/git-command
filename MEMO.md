@@ -8,6 +8,12 @@ $ git init
 ステージングエリアにファイルを登録
 $ git add
 
+git ディレクトリにコミット
+$ git commit
+（VScode が開かれてメッセージを記載する）
+
+$ git commit -m "ココにメッセージ記載"
+
 ファイルの状態を確認
 $ git status
 
