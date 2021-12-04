@@ -22,3 +22,6 @@ $ git diff
 
 ステージングエリアと git ディレクトリの差分を確認
 $ git diff --cached
+
+ワークツリーの変更を取り消す
+$ git checkout -- ファイル・ディレクトリ名
