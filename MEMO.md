@@ -25,3 +25,6 @@ $ git diff --cached
 
 ワークツリーの変更を取り消す
 $ git checkout -- ファイル・ディレクトリ名
+
+ステージングエリアへの登録を取り消す
+$ git reset HEAD ファイル・ディレクトリパス
