@@ -42,3 +42,6 @@ git で管理しないファイル・ディレクトリを設定
 $ git log
 コミット履歴を確認（差分も表示）
 $ git log -p
+
+git の設定を確認
+$ git config --list
