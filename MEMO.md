@@ -13,6 +13,7 @@ $ git init
 
 ステージングエリアにファイルを登録
 $ git add
+$ git add -A
 
 git ディレクトリにコミット
 $ git commit
