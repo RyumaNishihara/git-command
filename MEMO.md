@@ -21,6 +21,10 @@ $ git commit
 
 $ git commit -m "ココにメッセージ記載"
 
+git 管理下にあるファイルをコミットする場合、
+$ git commit -am ""
+とすることで、git add を省略してコミットすることができる。
+
 ファイルの状態を確認
 $ git status
 
