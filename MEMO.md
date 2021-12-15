@@ -98,3 +98,6 @@ fetch は、
 $ git pull origin プルするブランチ名
 
 $ git fetch origin
+
+ブランチから最新状態を取得する
+$ git merge 取得したいブランチ名
